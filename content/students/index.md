@@ -1,0 +1,70 @@
+---
+title: Students
+---
+
+# Students — 62
+
+All students as linked notes for Quartz Graph View. Each links to homeroom mates + shared option peers.
+
+- [[ALFIE]] — 11.2 · Marine Sci, History, Product Design, GP
+- [[ANNICK]] — 11.2 · Business, GP
+- [[AOON]] — 11.3 · Graphics, Business
+- [[ATOM]] — 11.2 · Marine Sci, Business
+- [[AYA]] — 11.3 · Psychology, Business
+- [[CANDY]] — 11.3 · Business, Drama
+- [[CARTOON]] — 11.3 · Fashion, Business
+- [[CHI-O]] — 11.1 · Economics, Psychology, Business, GP
+- [[COOPER]] — 11.1 · Economics, Computer Sci, Business, GP
+- [[CREAM]] — 11.3 · Marine Sci, Psychology, Business, Drama
+- [[EARN]] — 11.1 · Psychology, Business
+- [[JAN]] — 11.2 · Art, Psychology, Business
+- [[JING]] — 11.1 · Economics, Psychology, Product Design, Business
+- [[JOM]] — 11.1 · Marine Sci, Psychology, Business
+- [[KHING]] — 11.3 · Marine Sci, Business
+- [[KONG]] — 11.1 · Art, Chinese, Product Design, Business
+- [[KYOTO]] — 11.3 · Economics, Computer Sci, Business, Geography
+- [[MAYZA]] — 11.1 · Fashion, Business
+- [[ME ME]] — 11.3 · Graphics, Computer Sci, Geography
+- [[MINNA]] — 11.1 · Psychology, Business
+- [[MIRIN]] — 11.1 · Marine Sci, IGCSE PE, Business, Drama
+- [[MOO-HAM]] — 11.1 · Fashion, Psychology
+- [[NAM]] — 11.1 · Fashion, Business
+- [[NARA]] — 11.1 · Psychology, Business
+- [[NEW]] — 11.3 · Fashion, Business
+- [[NEWTON]] — 11.3 · Computer Sci, Business
+- [[NIPOON]] — 11.1 · Fashion, Psychology
+- [[NITE NITE]] — 11.1 · Fashion, Psychology
+- [[PAKORN]] — 11.3 · Economics, Psychology, Business, GP
+- [[PALMY]] — 11.2 · Art, Business
+- [[PASU]] — 11.2 · Economics, Business
+- [[PETE]] — 11.2 · Marine Sci, Business
+- [[PETER]] — 11.2 · Economics, Computer Sci, Business, GP
+- [[PHU]] — 11.1 · Business, Drama
+- [[PINN]] — 11.2 · Psychology, Business
+- [[PINTA]] — 11.1 · Marine Sci, Psychology, Business, GP
+- [[PIPER]] — 11.3 · Psychology, Business
+- [[PLAWAN]] — 11.3 · Graphics, History
+- [[PON]] — 11.3 · Art, Psychology, Business, Drama
+- [[POND]] — 11.3 · Graphics, Computer Sci, Product Design, Chinese
+- [[POOH]] — 11.2 · Psychology, Business
+- [[PRANG]] — 11.2 · Graphics, Chinese
+- [[PRIN]] — 11.2 · Marine Sci, Computer Sci, Business, Geography
+- [[PROUD (PHALADA)]] — 11.1 · no options
+- [[PROUD (PROUDPICHA)]] — 11.2 · Graphics, Business
+- [[PUNYA]] — 11.2 · Graphics, Chinese
+- [[RENA]] — 11.2 · Product Design, Business
+- [[RISA]] — 11.2 · Art, Product Design
+- [[ROSE]] — 11.2 · Fashion, Business
+- [[SITA]] — 11.2 · Art, Psychology, Business, Drama
+- [[SUN]] — 11.1 · History, Business
+- [[TATA]] — 11.2 · Economics, Computer Sci, Business, GP
+- [[TESTO]] — 11.2 · Computer Sci, Business
+- [[THANG]] — 11.3 · Economics, IGCSE PE, Business, Geography
+- [[TITLE]] — 11.3 · Economics, Computer Sci, Business, Chinese
+- [[TONG TONG]] — 11.3 · Business, Chinese
+- [[TRUST]] — 11.1 · Graphics, Psychology, Product Design, Geography
+- [[US]] — 11.2 · Product Design, Business
+- [[VEE]] — 11.1 · Economics, Psychology
+- [[YAYEE]] — 11.2 · no options
+- [[YIWA]] — 11.3 · Business, Drama
+- [[YOSHI]] — 11.1 · Graphics, Computer Sci, Business, GP
