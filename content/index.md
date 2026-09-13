@@ -36,13 +36,13 @@ The interactive student network graph lives on the dedicated page and as a legac
 
 ### Embedded preview
 
-<iframe src="./graph/" width="100%" height="600" style="border:1px solid #e5e5e5; border-radius:8px;" title="SchoolNode Student Graph"></iframe>
+<iframe src="/schoolnode-quartz/static/graph/" width="100%" height="600" style="border:1px solid #e5e5e5; border-radius:8px;" title="SchoolNode Student Graph"></iframe>
 
-> If iframe blank, [open fullscreen](./graph/)
+> If iframe blank, [open fullscreen](/schoolnode-quartz/static/graph/)
 
 ### Links
 
-- [Student Graph — fullscreen](./graph/) — 62 students live
+- [Student Graph — fullscreen](/schoolnode-quartz/static/graph/) — 62 students live
 - Direct Google Sheet CSV: `https://docs.google.com/spreadsheets/d/1uAhZI37v42wYGl_hmywVw_lCiZjyQJS1e_XAWe96uH4/export?format=csv&gid=867103286`
 
 > **Privacy note**: `SHEET_ID` is baked into `app.js` client-side — the full published CSV (including any sensitive columns) is fetched in-browser. Publish a sanitized mirror tab with only the allowlisted columns if needed.
