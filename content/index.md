@@ -36,22 +36,14 @@ The interactive student network graph lives on the dedicated page and as a legac
 
 ### Embedded preview
 
-<iframe src="./graph-legacy/index.html" width="100%" height="600" style="border:1px solid #e5e5e5; border-radius:8px;" title="SchoolNode Student Graph (legacy)"></iframe>
+<iframe src="./graph/" width="100%" height="600" style="border:1px solid #e5e5e5; border-radius:8px;" title="SchoolNode Student Graph"></iframe>
 
-<iframe src="./graph.html" width="100%" height="600" style="border:1px solid #e5e5e5; border-radius:8px; margin-top:12px;" title="SchoolNode Student Graph (root copy)"></iframe>
-
-> If iframes are blocked by your browser, use the links below.
+> If iframe blank, [open fullscreen](./graph/)
 
 ### Links
 
-- [Open in Quartz — ./students.md](./students.md) — Quartz page with full graph embed + details
-- [Open Legacy Graph (Quartz copy) — ./graph.html](./graph.html)
-- [Open Legacy Graph (graph folder) — ./graph/index.html](./graph/index.html)
-- [Open Legacy Graph (graph-legacy) — ./graph-legacy/index.html](./graph-legacy/index.html)
-- [Open Original SchoolNode (outside Quartz) — ../../schoolnode/index.html](../../schoolnode/index.html)
-- Direct Google Sheet CSV: `https://docs.google.com/spreadsheets/d/1uAhZI37v42wYGl_hmywVw_lCiZjyQJS1e_XAWe96uH4/export?format=csv&gid=867103286` (use `?gid=` param to switch tabs)
-
-Graph assets preserved: `graph.html` + `app.js` + `styles.css` + `students.json` / `manifest.json` at content root, plus `graph/` and `graph-legacy/` and `static/` copies — all copied from `schoolnode/` so the iframe can resolve `app.js` and `styles.css` relative to the HTML. Original `schoolnode/` untouched.
+- [Student Graph — fullscreen](./graph/) — 62 students live
+- Direct Google Sheet CSV: `https://docs.google.com/spreadsheets/d/1uAhZI37v42wYGl_hmywVw_lCiZjyQJS1e_XAWe96uH4/export?format=csv&gid=867103286`
 
 > **Privacy note**: `SHEET_ID` is baked into `app.js` client-side — the full published CSV (including any sensitive columns) is fetched in-browser. Publish a sanitized mirror tab with only the allowlisted columns if needed.
 
